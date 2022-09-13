@@ -11,9 +11,9 @@ for(j=1;j<=i;j++)
 }
 if (count==2)
 {
-console.log("Prime")
+console.log("Prime");
 }
 else
 {
-console.log("NO")
+console.log("Not a Prime");
 }
